@@ -13,7 +13,7 @@ The results of the election were the following;
   -The total number of votes cast were 329,711
   
     -Jefferson county had 10.5% of the total votes with 38,855 votes.
-    -Denver county had 82.8% of the total votes with 386,055 votes.
+    -Denver county had 82.8% of the total votes with 306,055 votes.
     -Arapahoe county had 6.7% of the total votes with 24,001 votes.
   -The county with the largest number of votes was Denver county with 386,005 votes.
   
